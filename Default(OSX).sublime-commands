@@ -1,0 +1,7 @@
+[
+    {
+      	"id"	 : "ttsmac",
+        "caption": "TTS: Speak Selected Text",
+        "command": "tts_mac"
+    }
+]
